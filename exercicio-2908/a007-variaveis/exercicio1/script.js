@@ -28,8 +28,6 @@ console.log(typeof idadeUsuario)
 
 //Para finalizar, imprima na tela a mensagem: "Olá `nome`,  você tem `idade` anos". Onde `nome` e `idade` são os valores que o usuário inseriu
 
-nomeUsuario = prompt("Qual seu nome?")
-console.log(nomeUsuario)
+console.log("Olá ", nomeUsuario, "você tem ", idadeUsuario, "anos")
 
- idadeUsuario = prompt("Qual seu nome?")
-console.log(idadeUsuario)
+ 
